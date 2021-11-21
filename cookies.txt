@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+bbc.co.uk	TRUE	/	FALSE	1999999999	BBC-UID	4601d9579dbf439868e9da56d1a00ef3ba9e7243b0205510253688c6015eb4d50Akamai%20Edge
+
